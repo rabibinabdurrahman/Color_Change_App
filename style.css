@@ -1,0 +1,19 @@
+.button {
+  text-align: center;
+  padding: 20px 30px;
+  margin: 5px;
+  border: 2px solid rgb(0, 0, 0);
+
+}
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
